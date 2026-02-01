@@ -1,0 +1,5 @@
+- id: hello
+  name: hello
+  entry: hook.jl
+  language: julia
+  types: [julia]
