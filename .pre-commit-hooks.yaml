@@ -1,5 +1,5 @@
 - id: hello
   name: hello
-  entry: hook.jl
+  entry: hook.jl hello
   language: julia
   types: [julia]
